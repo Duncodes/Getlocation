@@ -1,7 +1,7 @@
 var config = {
-  firebase: 'mappy-1570c',
+  firebase: 'mymaps-f8053',
   mapbox: {
-      accessToken: 'pk.eyJ1IjoiZGVuemVsd2FtYnVydSIsImEiOiJjaW1xOTBoeHEwMDFtdnpseThjdmNmcm5lIn0.uJ-GsqtY0UjKZYdgAR63LA',
-      mapId: 'cipsmettv002adnncwhlhir55',
+      accessToken: 'pk.eyJ1IjoiZHVuY2FuLW1hcHMiLCJhIjoiY2lwdTVrZnNjMDA0NWkxa3N1cXlkeHdibCJ9.kj76S5gHdib8p282FuicGA',
+      mapId: 'mapbox.satellite',
   }
 }
